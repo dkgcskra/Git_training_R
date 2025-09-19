@@ -1,4 +1,5 @@
-install.packages("tidyverse")
-install.packages("tidyAML")
-install.packages("tidymodels")
-#test2 - will this cause a conflict?
+x <- c(2, 4, 5)
+b <- c(3,4,5)
+
+x - b
+x * b
