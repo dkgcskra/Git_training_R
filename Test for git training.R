@@ -1,5 +1,4 @@
 install.packages("tidyverse")
 install.packages("tidyAML")
-install.packages("tidybayes") #this is not test 1
-install.packages("tidymodels") #this is not a test 1
- 
+install.packages("tidybayes") #this is a test 1
+install.packages("tidymodels") #this is a test 1 hehe
